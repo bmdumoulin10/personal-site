@@ -1,0 +1,17 @@
+.picture{
+    height: 300px;
+    margin-top: -150px;
+}
+
+.body{
+    /*height: 350px;*/
+    margin-top: 300px;
+}
+
+.name{
+    font-family: 'Tangerine', serif;
+    font-size: 115px;
+    margin-top: 175px;
+    margin-bottom: -15px;
+    text-shadow: 4px 4px 4px #aaa;
+}
