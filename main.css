@@ -39,5 +39,24 @@
 }
 
 .body{
-    height: 350px;
+    /*height: 350px;*/
+}
+
+.quote{
+  text-align: center;
+  font-size: 40px;
+  margin-top: -40px;
+  color: #616161;
+}
+
+.design{
+  font-size: 160px;
+  font-weight: bolder;
+  color: black;
+}
+
+.works{
+  font-size: 80px;
+  font-weight: bold;
+  color: black;
 }
