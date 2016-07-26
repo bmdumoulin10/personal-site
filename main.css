@@ -16,7 +16,7 @@
     font-size: 115px;
     margin-top: 175px;
     margin-bottom: -15px;
-    text-shadow: 4px 4px 4px #bdbdbd ;
+    text-shadow: 4px 4px 4px #bdbdbd;
 }
 
 .position{
@@ -59,4 +59,14 @@
   font-size: 80px;
   font-weight: bold;
   color: black;
+}
+
+.projectImages{
+  display:block;
+  margin: 0 auto;
+}
+
+.projectDescriptions{
+  font-family: 'Lora', serif;
+  text-align: justify;
 }
