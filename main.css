@@ -4,6 +4,7 @@
 
 .picture{
     height: 300px;
+    width: 150px;
     margin-top: -150px;
 }
 
@@ -69,4 +70,42 @@
 .projectDescriptions{
   font-family: 'Lora', serif;
   text-align: justify;
+}
+
+.resume{
+  margin: 0 auto;
+}
+
+.enlarge{
+  margin-bottom: 0px;
+}
+
+
+@media only screen and (min-width: 1040px){
+  #logo1{
+    display: block;
+  }
+  #logo2{
+    display: none;
+  }
+}
+
+/*medium screens*/
+/*@media only screen and (min-width: 480px) and (max-width: 767px){
+  #logo1{
+    display: none;
+  }
+  #logo2{
+    display: block;
+  }
+}*/
+
+/*small screens*/
+@media only screen and (max-width: 1039px){
+  #logo1{
+    display: none;
+  }
+  #logo2{
+    display: block;
+  }
 }
