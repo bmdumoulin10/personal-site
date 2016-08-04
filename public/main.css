@@ -69,7 +69,8 @@
 .projectDescriptions{
   font-family: 'Lora', serif;
   text-align: justify;
-  font-size: 24px;
+  font-size: 18px;
+  margin-top: 0px;
 }
 
 .resume{
